@@ -1,0 +1,8 @@
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.csproj.AssemblyReference.cache
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.AssemblyInfoInputs.cache
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.AssemblyInfo.cs
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.csproj.CoreCompileInputs.cache
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.RazorAssemblyInfo.cache
+C:\Users\hmeyr\OneDrive\Masaüstü\DERSLER\internet-nesne\internet-prg2\MyQuizProject\MyQuizProject\obj\Debug\net7.0\MyQuizProject.RazorAssemblyInfo.cs
